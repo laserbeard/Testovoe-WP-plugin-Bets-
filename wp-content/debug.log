@@ -1,0 +1,135 @@
+[11-Sep-2018 15:20:10 UTC] PHP Parse error:  syntax error, unexpected 'правами' (T_STRING) in /Applications/MAMP/htdocs/wp-content/plugins/testovoebets-plugin/testovoebets-plugin.php on line 166
+[11-Sep-2018 15:20:10 UTC] PHP Parse error:  syntax error, unexpected 'правами' (T_STRING) in /Applications/MAMP/htdocs/wp-content/plugins/testovoebets-plugin/testovoebets-plugin.php on line 166
+[11-Sep-2018 15:20:31 UTC] PHP Notice:  Функция map_meta_cap вызвана <strong>неправильно</strong>. Тип записей «bets» не зарегистрирован, поэтому проверка возможности «edit_post» относительно него может привести к неожиданным результатам. Дополнительную информацию можно найти на странице <a href="https://codex.wordpress.org/Debugging_in_WordPress">&laquo;Отладка в WordPress&raquo;</a>. (Это сообщение было добавлено в версии 4.4.0.) in /Applications/MAMP/htdocs/wp-includes/functions.php on line 4161
+[11-Sep-2018 15:20:45 UTC] PHP Notice:  Функция map_meta_cap вызвана <strong>неправильно</strong>. Тип записей «bets» не зарегистрирован, поэтому проверка возможности «edit_post» относительно него может привести к неожиданным результатам. Дополнительную информацию можно найти на странице <a href="https://codex.wordpress.org/Debugging_in_WordPress">&laquo;Отладка в WordPress&raquo;</a>. (Это сообщение было добавлено в версии 4.4.0.) in /Applications/MAMP/htdocs/wp-includes/functions.php on line 4161
+[11-Sep-2018 15:21:33 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:22:37 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:22:42 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:27:58 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:28:35 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:28:42 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:28:47 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:29:17 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:29:21 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:30:57 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:31:51 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:33:20 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:33:24 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:34:11 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:34:18 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:36:04 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:36:07 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:36:43 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:36:50 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:40:01 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:42:15 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:43:07 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:43:11 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:45:13 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:45:20 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:45:50 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:45:55 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:48:13 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:48:30 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:48:52 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:49:36 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:49:41 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:49:59 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:50:03 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:53:47 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:53:55 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:59:00 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 15:59:59 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[11-Sep-2018 16:00:04 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 02:05:07 UTC] PHP Warning:  Произошла непредвиденная ошибка. Возможно, что-то не так с сайтом WordPress.org или с настройками вашего сервера. Если проблема не решится, обратитесь на <a href="https://ru.forums.wordpress.org/">форумы поддержки</a>. (Не удалось установить защищённое соединение с WordPress.org. Пожалуйста, свяжитесь с администратором сервера.) in /Applications/MAMP/htdocs/wp-includes/update.php on line 156
+[12-Sep-2018 02:05:07 UTC] PHP Warning:  Произошла непредвиденная ошибка. Возможно, что-то не так с сайтом WordPress.org или с настройками вашего сервера. Если проблема не решится, обратитесь на <a href="https://ru.forums.wordpress.org/">форумы поддержки</a>. (Не удалось установить защищённое соединение с WordPress.org. Пожалуйста, свяжитесь с администратором сервера.) in /Applications/MAMP/htdocs/wp-includes/update.php on line 348
+[12-Sep-2018 02:05:07 UTC] PHP Warning:  Произошла непредвиденная ошибка. Возможно, что-то не так с сайтом WordPress.org или с настройками вашего сервера. Если проблема не решится, обратитесь на <a href="https://ru.forums.wordpress.org/">форумы поддержки</a>. (Не удалось установить защищённое соединение с WordPress.org. Пожалуйста, свяжитесь с администратором сервера.) in /Applications/MAMP/htdocs/wp-includes/update.php on line 530
+[12-Sep-2018 09:58:21 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 09:58:24 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:00:08 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:00:40 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:00:58 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:01:01 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:01:30 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:01:32 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:01:46 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:01:58 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:02:01 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:02:06 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:02:28 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:03:03 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:03:46 UTC] PHP Notice:  Undefined variable: kapper in /Applications/MAMP/htdocs/wp-content/plugins/testovoebets-plugin/testovoebets-plugin.php on line 63
+[12-Sep-2018 10:03:46 UTC] PHP Fatal error:  Call to a member function remove_cap() on null in /Applications/MAMP/htdocs/wp-content/plugins/testovoebets-plugin/testovoebets-plugin.php on line 63
+[12-Sep-2018 10:03:46 UTC] PHP Notice:  Undefined variable: kapper in /Applications/MAMP/htdocs/wp-content/plugins/testovoebets-plugin/testovoebets-plugin.php on line 63
+[12-Sep-2018 10:03:46 UTC] PHP Fatal error:  Call to a member function remove_cap() on null in /Applications/MAMP/htdocs/wp-content/plugins/testovoebets-plugin/testovoebets-plugin.php on line 63
+[12-Sep-2018 10:04:03 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:04:47 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:04:58 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:05:01 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:05:03 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:05:12 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:05:14 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:05:22 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:22:26 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:22:34 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:24:07 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:24:22 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:25:43 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:26:07 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:26:23 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:26:27 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:26:35 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:44:32 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:44:37 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:45:34 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:45:37 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:46:24 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:46:31 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:46:53 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:46:59 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:50:42 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:56:56 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:57:44 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 10:58:29 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 11:02:04 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 11:02:15 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 11:02:19 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 11:02:24 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 12:08:14 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 12:08:29 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 12:09:18 UTC] PHP Parse error:  syntax error, unexpected ''create_posts'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Applications/MAMP/htdocs/wp-content/plugins/testovoebets-plugin/testovoebets-plugin.php on line 167
+[12-Sep-2018 12:09:30 UTC] PHP Parse error:  syntax error, unexpected ''create_posts'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Applications/MAMP/htdocs/wp-content/plugins/testovoebets-plugin/testovoebets-plugin.php on line 167
+[12-Sep-2018 12:09:39 UTC] PHP Parse error:  syntax error, unexpected ''create_posts'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Applications/MAMP/htdocs/wp-content/plugins/testovoebets-plugin/testovoebets-plugin.php on line 167
+[12-Sep-2018 12:10:07 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 12:10:18 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 12:11:14 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 12:11:49 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 12:11:58 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 12:16:55 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 12:17:09 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 12:30:43 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 12:35:22 UTC] PHP Notice:  Undefined property: stdClass::$delete_posts in /Applications/MAMP/htdocs/wp-admin/includes/class-wp-posts-list-table.php on line 400
+[12-Sep-2018 12:50:03 UTC] PHP Warning:  Missing argument 1 for get_the_terms(), called in /Applications/MAMP/htdocs/wp-content/themes/testovoebets/single-bets.php on line 22 and defined in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1183
+[12-Sep-2018 12:50:03 UTC] PHP Warning:  Missing argument 2 for get_the_terms(), called in /Applications/MAMP/htdocs/wp-content/themes/testovoebets/single-bets.php on line 22 and defined in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1183
+[12-Sep-2018 12:50:03 UTC] PHP Notice:  Undefined variable: post in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1184
+[12-Sep-2018 12:50:03 UTC] PHP Notice:  Undefined variable: taxonomy in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1187
+[12-Sep-2018 12:50:03 UTC] PHP Notice:  Undefined variable: taxonomy in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1189
+[12-Sep-2018 12:50:03 UTC] PHP Notice:  Undefined variable: taxonomy in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1192
+[12-Sep-2018 12:50:03 UTC] PHP Notice:  Undefined variable: taxonomy in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1205
+[12-Sep-2018 12:50:36 UTC] PHP Warning:  Missing argument 1 for get_the_terms(), called in /Applications/MAMP/htdocs/wp-content/themes/testovoebets/single-bets.php on line 24 and defined in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1183
+[12-Sep-2018 12:50:36 UTC] PHP Warning:  Missing argument 2 for get_the_terms(), called in /Applications/MAMP/htdocs/wp-content/themes/testovoebets/single-bets.php on line 24 and defined in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1183
+[12-Sep-2018 12:50:36 UTC] PHP Notice:  Undefined variable: post in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1184
+[12-Sep-2018 12:50:36 UTC] PHP Notice:  Undefined variable: taxonomy in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1187
+[12-Sep-2018 12:50:36 UTC] PHP Notice:  Undefined variable: taxonomy in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1189
+[12-Sep-2018 12:50:36 UTC] PHP Notice:  Undefined variable: taxonomy in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1192
+[12-Sep-2018 12:50:36 UTC] PHP Notice:  Undefined variable: taxonomy in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1205
+[12-Sep-2018 12:50:47 UTC] PHP Warning:  Missing argument 2 for get_the_terms(), called in /Applications/MAMP/htdocs/wp-content/themes/testovoebets/single-bets.php on line 24 and defined in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1183
+[12-Sep-2018 12:50:47 UTC] PHP Notice:  Undefined variable: taxonomy in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1187
+[12-Sep-2018 12:50:47 UTC] PHP Notice:  Undefined variable: taxonomy in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1189
+[12-Sep-2018 12:50:47 UTC] PHP Notice:  Undefined variable: taxonomy in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1192
+[12-Sep-2018 12:50:47 UTC] PHP Notice:  Undefined variable: taxonomy in /Applications/MAMP/htdocs/wp-includes/category-template.php on line 1205
+[12-Sep-2018 12:53:31 UTC] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/wp-content/themes/testovoebets/single-bets.php on line 23
+[12-Sep-2018 12:53:31 UTC] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/wp-content/themes/testovoebets/single-bets.php on line 25
+[12-Sep-2018 12:56:25 UTC] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/wp-content/themes/testovoebets/single-bets.php on line 26
+[12-Sep-2018 13:04:17 UTC] PHP Fatal error:  Cannot use object of type WP_Term as array in /Applications/MAMP/htdocs/wp-content/themes/testovoebets/single-bets.php on line 28
+[12-Sep-2018 13:04:45 UTC] PHP Fatal error:  Cannot use object of type WP_Term as array in /Applications/MAMP/htdocs/wp-content/themes/testovoebets/single-bets.php on line 43
